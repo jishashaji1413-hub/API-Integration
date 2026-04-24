@@ -39,7 +39,7 @@ function App2() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <div className="max-w-xl mx-auto bg-white p-4 rounded shadow">
-        <h2 className="text-xl font-bold mb-4">Customer Manager</h2>
+        <h1 className="text-xl font-bold mb-4">CUSTOMER MANAGEMENT</h1>
 
         {/* Add Customer */}
         <div className="flex gap-2 mb-4">
